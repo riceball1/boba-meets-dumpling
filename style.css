@@ -1,7 +1,7 @@
 * {
     font-family: 'Roboto', sans-serif;
-    color: whitesmoke;
-    background-color: black;
+    color: #000;
+    background-color: #ffff;
     text-align: center;
     margin: 2% auto;
 }
@@ -14,7 +14,28 @@ img.resize {
 }
 
 .title {
-    font-size: 3rem;
+    font-size: 4rem;
     font-weight: bold;
     color: rgb(233, 208, 21);
+}
+
+.subtitle {
+    text-align: center;
+    margin: 5px auto;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.box {
+    padding: 10px;
+    border-radius: 5px;
+    border: 3px #000 solid;
+    margin: 5px auto;
+    width: 50%;
+    font-size: 2rem;
+    text-align: left;
+}
+
+.strong-text {
+    font-size: 2rem;
 }

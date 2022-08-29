@@ -1,0 +1,20 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    color: whitesmoke;
+    background-color: black;
+    text-align: center;
+    margin: 2% auto;
+}
+
+img.resize {
+    max-width:250px; /* you can use % */
+    width: 60%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: bold;
+    color: rgb(233, 208, 21);
+}

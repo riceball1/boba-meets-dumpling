@@ -1,2 +1,2 @@
 # Boba Meets Dumpling
-A fun site for asians dating
+A fun way to fight the loneliness and not eat alone
